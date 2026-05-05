@@ -18,6 +18,10 @@ A quiet, picturesque town with minimal crowds, walkable to markets and amenities
 
 **Best for:** Coastal beauty, art history, stunning walks, sunset picnics
 
+![Cadaqués coastal view](https://via.placeholder.com/800x400?text=Cadaqués+Coastal+View)
+![Cadaqués old town](https://via.placeholder.com/800x400?text=Cadaqués+Old+Town)
+![Dalí House-Museum](https://via.placeholder.com/800x400?text=Dalí+House-Museum+Portlligat)
+
 **The vibe**
 Cadaqués is a whitewashed fishing town on a wide bay at the tip of the Cap de Creus peninsula. Narrow cobbled streets, artists' studios tucked into corners, and the legacy of Salvador Dalí everywhere. Once isolated behind coastal hills, it still feels like a secret — especially in the early morning and evening when day-trippers thin out. Think Mediterranean fishing village meets bohemian artists' colony.
 
@@ -56,6 +60,10 @@ Cadaqués is a whitewashed fishing town on a wide bay at the tip of the Cap de C
 ## Option 2: Besalú + La Garrotxa — Medieval Village & Volcanic Landscapes
 
 **Best for:** History, authenticity, hiking volcanic craters, budget-friendly
+
+![Besalú medieval bridge](https://via.placeholder.com/800x400?text=Besalú+Medieval+Bridge)
+![La Garrotxa volcanic park](https://via.placeholder.com/800x400?text=La+Garrotxa+Volcanic+Park)
+![Besalú Jewish quarter](https://via.placeholder.com/800x400?text=Besalú+Jewish+Quarter+Mikveh)
 
 **The vibe**
 Besalú is a perfectly preserved 12th-century stone town. The iconic Romanesque bridge arches over the Fluvià River, and the old town is completely pedestrian — cobbled lanes, stone homes, remnants of a Jewish quarter with the Iberian Peninsula's only known Jewish purification baths (mikveh). It feels like stepping into medieval Catalonia. The broader Garrotxa region is a volcanic wonderland: dormant craters, beech forests, and natural swimming holes.
@@ -98,6 +106,10 @@ Besalú is a perfectly preserved 12th-century stone town. The iconic Romanesque 
 
 **Best for:** Castle-town atmosphere, easy access from Barcelona, swimming coves
 
+![Tossa de Mar old town](https://via.placeholder.com/800x400?text=Tossa+de+Mar+Walled+Old+Town)
+![Tossa de Mar beaches](https://via.placeholder.com/800x400?text=Tossa+de+Mar+Beaches+Coves)
+![Tossa de Mar lighthouse](https://via.placeholder.com/800x400?text=Tossa+de+Mar+Lighthouse+Trail)
+
 **The vibe**
 Tossa de Mar has the most dramatic silhouette on the Costa Brava: a fortified medieval old town (**Vila Vella**) perched on a rocky headland, crumbling castle walls, and crescent beaches on either side. Forbes named it one of Europe's most beautiful beach destinations. The old town becomes quiet after day-trippers leave, and it's the last remaining walled medieval town on the Catalan coast.
 
@@ -135,6 +147,10 @@ Tossa de Mar has the most dramatic silhouette on the Costa Brava: a fortified me
 ## Option 4: Rupit — Dramatic Cliffside Mountain Village
 
 **Best for:** Maximum tranquility, dramatic scenery, budget-friendly, swimming holes
+
+![Rupit suspension bridge](https://via.placeholder.com/800x400?text=Rupit+Suspension+Bridge+over+Gorge)
+![Rupit waterfall](https://via.placeholder.com/800x400?text=Salt+de+Sallent+Waterfall+Rupit)
+![Rupit village views](https://via.placeholder.com/800x400?text=Rupit+Cliffside+Village+Views)
 
 **The vibe**
 A thousand-year-old stone village accessed by a swaying wooden suspension bridge over a gorge. Rupit is car-free, tiny, and perched on the edge of the Collsacabra cliffs. Below it, the 115-meter **Salt de Sallent** (Catalonia's highest waterfall) cascades into a deep ravine. It feels like a mountain village in the Dolomites, but distinctly Catalan — the most "mountain Lake Como" of the four options.
