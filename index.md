@@ -19,8 +19,8 @@ A quiet, picturesque town with minimal crowds, walkable to markets and amenities
 **Best for:** Coastal beauty, art history, stunning walks, sunset picnics
 
 ![Cadaqués coastal view](https://upload.wikimedia.org/wikipedia/commons/f/f5/Cadaques_Spain.jpg)
-![Cadaqués old town](https://upload.wikimedia.org/wikipedia/commons/0/0f/View_on_Cadaques.jpg)
-![Dalí Statue](https://upload.wikimedia.org/wikipedia/commons/9/90/Salvador_Dali_-_Statue_-_Cadaques_-_Spain.jpg)
+![Cadaqués old town](https://upload.wikimedia.org/wikipedia/commons/b/b3/Cadaqu%C3%A9s_-_CS_14072008_181041_29083.jpg)
+![Dalí Statue](https://upload.wikimedia.org/wikipedia/commons/c/cf/Cadaques_Dali_33.JPG)
 
 **The vibe**
 Cadaqués is a whitewashed fishing town on a wide bay at the tip of the Cap de Creus peninsula. Narrow cobbled streets, artists' studios tucked into corners, and the legacy of Salvador Dalí everywhere. Once isolated behind coastal hills, it still feels like a secret — especially in the early morning and evening when day-trippers thin out. Think Mediterranean fishing village meets bohemian artists' colony.
@@ -61,9 +61,9 @@ Cadaqués is a whitewashed fishing town on a wide bay at the tip of the Cap de C
 
 **Best for:** History, authenticity, hiking volcanic craters, budget-friendly
 
-![Besalú medieval bridge](https://upload.wikimedia.org/wikipedia/commons/0/08/Besal%C3%BA,_17850,_Province_of_Girona,_Spain_-_panoramio.jpg)
-![Besalú bridge detail](https://upload.wikimedia.org/wikipedia/commons/2/24/Pont_Medieval_(Besal%C3%BA)_-_9.jpg)
-![Besalú town view](https://upload.wikimedia.org/wikipedia/commons/0/08/Besal%C3%BA,_17850,_Province_of_Girona,_Spain_-_panoramio.jpg)
+![Besalú medieval bridge](https://upload.wikimedia.org/wikipedia/commons/6/6e/Medieval_Bridge_at_Besalu.jpg)
+![Besalú bridge detail](https://upload.wikimedia.org/wikipedia/commons/a/a8/Esgl%C3%A9sia_de_Sant_Vicen%C3%A7_-_Besal%C3%BA_-_Side_door_detail.jpg)
+![Besalú town view](https://upload.wikimedia.org/wikipedia/commons/6/6e/Medieval_Bridge_at_Besalu.jpg)
 
 **The vibe**
 Besalú is a perfectly preserved 12th-century stone town. The iconic Romanesque bridge arches over the Fluvià River, and the old town is completely pedestrian — cobbled lanes, stone homes, remnants of a Jewish quarter with the Iberian Peninsula's only known Jewish purification baths (mikveh). It feels like stepping into medieval Catalonia. The broader Garrotxa region is a volcanic wonderland: dormant craters, beech forests, and natural swimming holes.
@@ -106,9 +106,9 @@ Besalú is a perfectly preserved 12th-century stone town. The iconic Romanesque 
 
 **Best for:** Castle-town atmosphere, easy access from Barcelona, swimming coves
 
-![Tossa de Mar old town](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Tossa_de_Mar%2C_Girona%2C_Spain_-_Panoramio.jpg/800px-Tossa_de_Mar%2C_Girona%2C_Spain_-_Panoramio.jpg)
-![Tossa de Mar beaches](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Tossa_de_Mar%2C_Girona%2C_Spain_-_Panoramio.jpg/800px-Tossa_de_Mar%2C_Girona%2C_Spain_-_Panoramio.jpg)
-![Tossa de Mar lighthouse](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Tossa_de_Mar%2C_Girona%2C_Spain_-_Panoramio.jpg/800px-Tossa_de_Mar%2C_Girona%2C_Spain_-_Panoramio.jpg)
+![Tossa de Mar old town](https://upload.wikimedia.org/wikipedia/commons/f/f9/Costa_Brava_-_Tossa_de_Mar_-_La_Vila_Vella_-_Old_Town_Fortifications_at_Torre_d'en_Joan%C3%A0s_-_Panorama_View_of_Mediterranean_Sea_Coast,_Esgl%C3%A9sia_vella_de_Sant_Vicen%C3%A7_(Gothic_Ruin),_Trees_https://upload.wikimedia.org/wikipedia/commons/5/52/Costa_Brava_-_Tossa_de_Mar_-_La_Vila_Vella_-_Old_Town_Fortifications_-_Panorama_View_from_Old_Medieval_Town_between_Torre_de_les_Hores_and_Torre_des_Codolar_01.jpg_Town_Walls_01.jpg)
+![Tossa de Mar beaches](https://upload.wikimedia.org/wikipedia/commons/f/f9/Costa_Brava_-_Tossa_de_Mar_-_La_Vila_Vella_-_Old_Town_Fortifications_at_Torre_d'en_Joan%C3%A0s_-_Panorama_View_of_Mediterranean_Sea_Coast,_Esgl%C3%A9sia_vella_de_Sant_Vicen%C3%A7_(Gothic_Ruin),_Trees_https://upload.wikimedia.org/wikipedia/commons/5/52/Costa_Brava_-_Tossa_de_Mar_-_La_Vila_Vella_-_Old_Town_Fortifications_-_Panorama_View_from_Old_Medieval_Town_between_Torre_de_les_Hores_and_Torre_des_Codolar_01.jpg_Town_Walls_01.jpg)
+![Tossa de Mar lighthouse](https://upload.wikimedia.org/wikipedia/commons/f/f9/Costa_Brava_-_Tossa_de_Mar_-_La_Vila_Vella_-_Old_Town_Fortifications_at_Torre_d'en_Joan%C3%A0s_-_Panorama_View_of_Mediterranean_Sea_Coast,_Esgl%C3%A9sia_vella_de_Sant_Vicen%C3%A7_(Gothic_Ruin),_Trees_https://upload.wikimedia.org/wikipedia/commons/5/52/Costa_Brava_-_Tossa_de_Mar_-_La_Vila_Vella_-_Old_Town_Fortifications_-_Panorama_View_from_Old_Medieval_Town_between_Torre_de_les_Hores_and_Torre_des_Codolar_01.jpg_Town_Walls_01.jpg)
 
 **The vibe**
 Tossa de Mar has the most dramatic silhouette on the Costa Brava: a fortified medieval old town (**Vila Vella**) perched on a rocky headland, crumbling castle walls, and crescent beaches on either side. Forbes named it one of Europe's most beautiful beach destinations. The old town becomes quiet after day-trippers leave, and it's the last remaining walled medieval town on the Catalan coast.
@@ -148,9 +148,9 @@ Tossa de Mar has the most dramatic silhouette on the Costa Brava: a fortified me
 
 **Best for:** Maximum tranquility, dramatic scenery, budget-friendly, swimming holes
 
-![Rupit suspension bridge](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rupit%2C_Osona%2C_Spain_-_Panoramio.jpg/800px-Rupit%2C_Osona%2C_Spain_-_Panoramio.jpg)
-![Rupit waterfall](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rupit%2C_Osona%2C_Spain_-_Panoramio.jpg/800px-Rupit%2C_Osona%2C_Spain_-_Panoramio.jpg)
-![Rupit village views](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rupit%2C_Osona%2C_Spain_-_Panoramio.jpg/800px-Rupit%2C_Osona%2C_Spain_-_Panoramio.jpg)
+![Rupit suspension bridge](https://upload.wikimedia.org/wikipedia/commons/7/70/Air_Rawas_river_(view_from_Air_Rawas_bridge)_-_Rupit,_North_Musi_Rawas,_South_Sumatra.jpg)
+![Rupit waterfall](https://upload.wikimedia.org/wikipedia/commons/7/70/Air_Rawas_river_(view_from_Air_Rawas_bridge)_-_Rupit,_North_Musi_Rawas,_South_Sumatra.jpg)
+![Rupit village views](https://upload.wikimedia.org/wikipedia/commons/7/70/Air_Rawas_river_(view_from_Air_Rawas_bridge)_-_Rupit,_North_Musi_Rawas,_South_Sumatra.jpg)
 
 **The vibe**
 A thousand-year-old stone village accessed by a swaying wooden suspension bridge over a gorge. Rupit is car-free, tiny, and perched on the edge of the Collsacabra cliffs. Below it, the 115-meter **Salt de Sallent** (Catalonia's highest waterfall) cascades into a deep ravine. It feels like a mountain village in the Dolomites, but distinctly Catalan — the most "mountain Lake Como" of the four options.
