@@ -1,0 +1,13 @@
+*.backup*
+*.backup2*
+*.backup3*
+*.backup4*
+*.backup5*
+*.backup6*
+*.backup7*
+*.orig
+*.working
+*.before
+*.before*
+fix*.py
+replace*.py
